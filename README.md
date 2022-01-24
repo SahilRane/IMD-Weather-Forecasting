@@ -1,2 +1,6 @@
 # IMD-Weather-Forecasting
-This repository contains my Machine Learning models for heat index and temperature forecasting while I interned for the Indian Meteorological Department.
+Due to a large number of heat-related illnesses and deaths in the India the government had implemented the heat action plan which largely dealt with treatment plans for such illnesses. I wanted to work towards implementing more precautionary measures as part of the plan. The way I sought to do this was to improve the accuracy of weather forecasting models used by the Indian Meteorological Department for increased accuracy in the prediction of temperature and heat index (an index that combines the temperature and humidity of a certain region to give the impact of the the heat on individuals). I used a variety of different Machine Learning models such as Multivariate Linear Regression, Autoregressive-Integrated Moving Averages, Exponential Smoothing, and Neural Networks.
+
+This repository contains my Machine Learning models for heat index and temperature forecasting while I interned for the Indian Meteorological Department. I have published a research paper documenting the findings of my research during this period in the International Journal for Engineering, Research, and Technology (IJERT). The research paper was also peer-reviewed and accepted by the Indian Meteorological Department. 
+
+(https://www.ijert.org/improving-the-accuracy-of-temperature-forecasting-in-mumbai-colaba)
